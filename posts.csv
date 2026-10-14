@@ -13,4 +13,3 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-10-04,daily_carousel,Denver,clear,SHIFTING,change,17990430120026014,Denver: 34° of change between leaving and getting back. Swipe for your city. 👇
 2026-10-05,daily_carousel,Chicago,clear,LAYERED,change,18105344878967069,Chicago: 18° apart from the morning walk to the evening one. Swipe for your city. 👇
 2026-10-06,daily_carousel,Denver,clear,SHIFTING,change,17951674524335250,"Denver: 35° of change between leaving and getting back. Swipe for your city. 👇"
-2026-10-14,daily_carousel,,,,,"failed: Application request limit reached (code 4, subcode 2207051), flagged non-transient, not retrying",
