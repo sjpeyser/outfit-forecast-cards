@@ -15,3 +15,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-10-06,daily_carousel,Denver,clear,SHIFTING,change,17951674524335250,"Denver: 35° of change between leaving and getting back. Swipe for your city. 👇"
 2026-10-14,daily_carousel,Atlanta,partly_cloudy,LAYERED,change,17877953553563395,"Atlanta: the day moves 26° while you are out in it. Swipe for your city. 👇"
 2026-10-16,daily_carousel,,,,,"failed: Application request limit reached (code 4, subcode 2207051), flagged non-transient, not retrying",
+2026-10-17,daily_carousel,,,,,pending,
