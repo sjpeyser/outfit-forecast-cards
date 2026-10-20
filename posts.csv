@@ -18,3 +18,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-10-17,daily_carousel,Denver,clear,COMPLEX,change,18634380025001150,Denver: 44° of change between leaving and getting back. Swipe for your city. 👇
 2026-10-18,daily_carousel,NYC,clear,LAYERED,change,17970431244184997,NYC: 21° between the commute in and the commute home. Swipe for your city. 👇
 2026-10-19,daily_carousel,Chicago,cloudy,LAYERED,change,18107841685959190,Chicago: 26° apart from the morning walk to the evening one. Swipe for your city. 👇
+2026-10-20,daily_carousel,,,,,pending,
