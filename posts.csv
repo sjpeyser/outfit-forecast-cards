@@ -34,3 +34,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-11-02,daily_carousel,Atlanta,clear,LAYERED,change,18119958040978577,Atlanta: the day moves 20° while you are out in it. Swipe for your city. 👇
 2026-11-03,daily_carousel,Denver,light_rain,SHIFTING,change,17906523627356837,Denver: part of this day is wet and part of it is not. Swipe for your city. 👇
 2026-11-04,daily_carousel,Seattle,cloudy,LAYERED,change,17978437736931750,"Seattle: 33° early, 51° later, one outfit has to cover both. Swipe for your city. 👇"
+2026-11-05,daily_carousel,,,,,pending,
