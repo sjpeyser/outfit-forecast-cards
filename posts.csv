@@ -37,3 +37,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-11-05,daily_carousel,NYC,light_rain,LAYERED,change,18099134555123366,"NYC: rain for part of the day, not all of it. Swipe for your city. 👇"
 2026-11-06,daily_carousel,Denver,cloudy,LAYERED,change,18123792467283519,Denver: a 28° morning in front of a 51° afternoon. Swipe for your city. 👇
 2026-11-07,daily_carousel,Atlanta,cloudy,LAYERED,change,18128374679484695,Atlanta: the day moves 22° while you are out in it. Swipe for your city. 👇
+2026-11-08,daily_carousel,,,,,pending,
