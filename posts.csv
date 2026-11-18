@@ -47,3 +47,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-11-15,daily_carousel,Atlanta,clear,SHIFTING,change,18097450457260012,"Atlanta: 25° when you leave, 48° when you want the layer off. Swipe for your city. 👇"
 2026-11-16,daily_carousel,Denver,cloudy,SHIFTING,change,17889942441491854,Denver: 32° of change between leaving and getting back. Swipe for your city. 👇
 2026-11-17,daily_carousel,Chicago,clear,SHIFTING,change,18472257049186481,"Chicago: starts at 25°, gets to 48° before it is done. Swipe for your city. 👇"
+2026-11-18,daily_carousel,,,,,pending,
