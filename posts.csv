@@ -49,4 +49,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-11-17,daily_carousel,Chicago,clear,SHIFTING,change,18472257049186481,"Chicago: starts at 25°, gets to 48° before it is done. Swipe for your city. 👇"
 2026-11-18,daily_carousel,Seattle,light_rain,SHIFTING,change,17996759418066254,"Seattle: rain comes and goes, the outfit cannot. Swipe for your city. 👇"
 2026-11-19,daily_carousel,Denver,cloudy,COMPLEX,change,18220178944357595,Denver: a 18° morning in front of a 45° afternoon. Swipe for your city. 👇
-2026-11-20,daily_carousel,,,,,pending,
+2026-11-20,daily_carousel,NYC,clear,LAYERED,change,18139644670735530,NYC: 27° between the commute in and the commute home. Swipe for your city. 👇
