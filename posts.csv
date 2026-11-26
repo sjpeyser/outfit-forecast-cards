@@ -55,4 +55,4 @@ date,lane,cover_city,sky_condition,score,confidence,media_id,hook
 2026-11-23,daily_carousel,Seattle,cloudy,LAYERED,change,18218965609359867,"Seattle: 35° early, 47° later, one outfit has to cover both. Swipe for your city. 👇"
 2026-11-24,daily_carousel,Denver,cloudy,SHIFTING,gear,18118734779102060,"Denver: feels 18° before sunrise, real cold-weather kit. Swipe for your city. 👇"
 2026-11-25,daily_carousel,Atlanta,light_rain,LAYERED,change,18105766085199052,Atlanta: the rain does not last the whole day. Swipe for your city. 👇
-2026-11-26,daily_carousel,,,,,pending,
+2026-11-26,daily_carousel,Denver,partly_cloudy,COMPLEX,change,17965975515250989,Denver: 37° of change between leaving and getting back. Swipe for your city. 👇
